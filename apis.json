@@ -1,0 +1,56 @@
+{
+    "name": "webinos",
+    "description": "<p>webinos is an EU-funded project and affiliate program aiming to define and deliver an Open Source Platform and software components for the Future Internet in the form of web runtime extensions, to enable web applications and services to be used and shared consistently and securely over a broad spectrum of converged and connected devices, including mobile, PC, home media (TV) and in-car units.<span style=\"white-space: pre;\"> <\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/serviceproviders\/webinos_logo.png",
+    "tags": [
+        "automobiles",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/webinos\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "webinos",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/serviceproviders\/webinos_logo.png",
+            "humanURL": "http:\/\/www.webinos.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/webinos-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/webinos.org\/category\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.webinos.org\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/i-materialise"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/webinos"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/webinosproject"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.webinos.org"
+        }
+    ]
+}
